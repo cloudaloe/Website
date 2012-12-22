@@ -8,3 +8,6 @@ This miniscule server also serves csv files for injecting test data.
 ###Running the included server
 To run the included server, execute: <code> node server.js</code> (or double-click the sibling windows batch file), after you have node.js installed.  
 You may then enter [http://localhost:1337/showCase.html] (http://localhost:1337/showCase.html) in your browser.
+
+###License
+License: MIT (http://www.opensource.org/licenses/mit-license.php)
